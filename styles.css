@@ -5,7 +5,7 @@
     font-family: 'Hanken Grotesk', sans-serif;
     text-decoration: none;
 }
-.attribution { font-size: 11px; text-align: center; margin-top: 7rem;}
+.attribution { font-size: 11px; text-align: center; margin-top: 1rem;}
 .attribution a { color: hsl(228, 45%, 44%); }
 
 body{
@@ -19,7 +19,7 @@ p{
     font-size: 18px
 }
 section{
-    margin-top: 20%;
+    margin-top: 100%;
 }
 
 .container{
