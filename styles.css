@@ -144,10 +144,9 @@ button{
     background-color: hsl(224, 30%, 27%);
 }
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 1200px) {
     body {
-        width: 100%;
-        margin: 0;
+        width: 45%;
     }
 
     .container {
