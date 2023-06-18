@@ -19,7 +19,7 @@ p{
     font-size: 18px
 }
 section{
-    margin-top: 6rem;
+    margin-top: 20%;
 }
 
 .container{
@@ -165,7 +165,7 @@ button{
     }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 600px) {
     body{
         margin: 0;
         width: 100%;
